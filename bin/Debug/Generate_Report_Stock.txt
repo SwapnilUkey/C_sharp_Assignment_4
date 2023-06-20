@@ -1,0 +1,14 @@
+		S	M	R	L	XL
+Plain   	0	57	59	51	150	
+Everything	143	82	83	543	63	
+Cinnamon	20	85	18	138	84	
+Blueberry	20	183	0	40	128	
+Chocolates	87	104	143	188	149	
+Onion 	78	957	53	18	110	
+Asiago	151	110	188	543	110	
+Salt Bagels	120	133	63	135	114	
+PoppySeed	14	183	168	174	131	
+FrenchToa 	144	142	161	194	149	
+Egg   	51	84	115	84	84	
+Pumpernick	143	84	182	543	20	
+Wheat 	58	106	147	136	120	

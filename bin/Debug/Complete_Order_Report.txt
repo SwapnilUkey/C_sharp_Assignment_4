@@ -1,0 +1,103 @@
+o5PEkTj,11-27-2022,Blueberry   -    S    -    3,Blueberry   -    XL    -    3,30.3
+JfcDUHc,11-27-2022,Asiago   -    R    -    4,Chocolates   -    XL    -    4,53.6
+OzhMxKA,11-27-2022,PoppySeed   -    XL    -    4,Blueberry   -    XL    -    3,PoppySeed   -    XL    -    2,82.2
+Xkgj6R4,11-27-2022,Cinnamon   -    R    -    1,91.4
+hJ3avMr,11-27-2022,Salt Bagels   -    R    -    4,4.8
+bNg1iTr,11-27-2022,Plain      -    M    -    4,26.8
+MSJC9bt,11-27-2022,Salt Bagels   -    L    -    6,Chocolates   -    R    -    6,79.8
+rzRx7zY,11-27-2022,Wheat    -    XL    -    10,Plain      -    XL    -    20,Plain      -    S    -    20,349.0
+hnRlX3t,11-27-2022,Plain      -    S    -    10,Plain      -    M    -    100,704.0
+CSZUpMg,11-27-2022,Plain      -    XL    -    12,Plain      -    S    -    12,153.6
+qap1Zxv,11-27-2022,Wheat    -    XL    -    12,111.6
+FXeiXsz,11-27-2022,Wheat    -    S    -    11,Pumpernick   -    S    -    11,145.2
+9ucu5Ra,11-27-2022,Wheat    -    S    -    11,Wheat    -    XL    -    11,161.7
+8RJlKjU,11-27-2022,Plain      -    S    -    10,Plain      -    M    -    100,Pumpernick   -    XL    -    20,734.0
+ce9jETt,11-27-2022,Chocolates   -    R    -    33,Plain      -    XL    -    23,430.7
+PEj7osb,11-27-2022,Onion    -    M    -    44,Pumpernick   -    XL    -    23,Everything   -    XL    -    23,473.0
+oNDTQdC,11-27-2022,Plain      -    S    -    10,Wheat    -    S    -    10,Wheat    -    XL    -    10,181.0
+rgahyeM,11-27-2022,Asiago   -    R    -    10,Asiago   -    XL    -    10,140.0
+ikxUfwu,11-27-2022,Blueberry   -    R    -    9,Egg      -    L    -    9,156.6
+2lVIWos,11-27-2022,Chocolates   -    R    -    3,19.5
+wdNOowF,11-27-2022,FrenchToa    -    S    -    4,Chocolates   -    S    -    4,44.0
+UX2G4zJ,11-27-2022,Chocolates   -    R    -    12,Wheat    -    XL    -    12,Wheat    -    L    -    12,283.2
+btHjTuO,11-27-2022,Everything   -    R    -    21,107.1
+iyxYRKd,11-27-2022,Chocolates   -    S    -    22,70.4
+WulLtwe,11-27-2022,Egg      -    XL    -    5,85.7
+zx2OQFR,11-27-2022,Cinnamon   -    R    -    12,Asiago   -    R    -    12,Wheat    -    XL    -    12,312.0
+P9DLaCc,11-27-2022,Salt Bagels   -    S    -    23,Blueberry   -    XL    -    10,181.5
+8eQroJe,11-27-2022,Everything   -    M    -    4,82.5
+Izjonpq,11-27-2022,Onion    -    M    -    3,15.0
+44FQuEx,11-27-2022,Chocolates   -    R    -    5,32.5
+XcCNWMK,11-27-2022,Everything   -    M    -    7,23.8
+jQvN1az,11-27-2022,Salt Bagels   -    R    -    6,7.2
+2pr4OrP,11-27-2022,Wheat    -    XL    -    10,93.0
+TfsIJ7V,11-27-2022,Wheat    -    XL    -    4,37.2
+2OOS7vh,11-27-2022,FrenchToa    -    R    -    6,19.2
+5XFMRFE,11-27-2022,Blueberry   -    R    -    5,48.0
+eD8FSqI,11-27-2022,Wheat    -    R    -    2,16.8
+l4iNevk,11-27-2022,Wheat    -    XL    -    2,18.6
+UuRa1C8,11-27-2022,Blueberry   -    R    -    3,28.8
+ipVCYBV,11-27-2022,Pumpernick   -    R    -    2,6.4
+NBHsRTA,11-27-2022,Chocolates   -    L    -    2,Chocolates   -    L    -    2,12.8
+Ur91VmX,11-27-2022,Wheat    -    L    -    2,15.6
+CHBT2eS,11-27-2022,Blueberry   -    XL    -    2,15.6
+PuvHQjq,11-27-2022,Salt Bagels   -    XL    -    2,17.0
+IZCrqXD,11-27-2022,Egg      -    XL    -    2,18.6
+jcOdE5r,11-27-2022,Cinnamon   -    XL    -    8,62.4
+yoHDv4Z,11-27-2022,Onion    -    R    -    1,4.6
+Jn6ud4P,11-27-2022,Wheat    -    XL    -    3,27.9
+xw3YVU8,11-27-2022,PoppySeed   -    R    -    3,6.9
+LtQtmwB,11-27-2022,PoppySeed   -    XL    -    3,29.4
+716ARXf,11-27-2022,Wheat    -    XL    -    2,18.6
+1WiiGE2,11-27-2022,Wheat    -    R    -    2,16.8
+BEGhqnc,11-27-2022,Plain      -    S    -    2,6.8
+8wMU1rB,11-27-2022,Asiago   -    XL    -    2,13.0
+ckZ1mvZ,11-27-2022,Wheat    -    S    -    2,Asiago   -    S    -    2,17.2
+tRUBcnJ,11-27-2022,Plain      -    S    -    5,Wheat    -    XL    -    4,54.2
+1JqprOn,11-27-2022,Plain      -    XL    -    9,Wheat    -    S    -    1,90.0
+2F1Vb4d,11-27-2022,Salt Bagels   -    M    -    5,28.5
+p1IG5h6,11-27-2022,Plain      -    S    -    3,10.2
+IoRsy64,11-27-2022,Plain      -    S    -    11,37.4
+ynzGiYI,11-28-2022,Plain      -    XL    -    20,Asiago   -    XL    -    20,318.0
+soVzRX6,11-28-2022,Pumpernick   -    S    -    10,78.0
+4sTCC1p,11-28-2022,Plain      -    S    -    1,3.4
+8SZaV4v,11-28-2022,Chocolates   -    S    -    4,Wheat    -    S    -    4,34.4
+4kZzPBI,11-28-2022,Onion    -    R    -    4,18.4
+X5Nt1xl,11-28-2022,Plain      -    M    -    1,6.7
+xUtSKeu,11-28-2022,Cinnamon   -    M    -    1,FrenchToa    -    L    -    2,25.5
+SGZGeo9,11-28-2022,Plain      -    M    -    3,20.1
+mdKLFPe,11-28-2022,Blueberry   -    R    -    6,57.6
+sRXVUcw,11-28-2022,Everything   -    M    -    2,Onion    -    M    -    2,FrenchToa    -    M    -    2,FrenchToa    -    M    -    3,64.8
+FS9jaQb,11-28-2022,Cinnamon   -    R    -    3,27.6
+zNU2lSZ,11-28-2022,Salt Bagels   -    L    -    3,Chocolates   -    R    -    23,169.9
+XDAlYss,11-29-2022,Everything   -    R    -    5,FrenchToa    -    R    -    5,41.5
+q7Y3Ino,11-30-2022,Cinnamon   -    M    -    2,Cinnamon   -    M    -    3,Cinnamon   -    M    -    4,58.5
+X5V65VD,11-30-2022,Everything   -    R    -    100,510.0
+OZj47Rg,11-30-2022,Egg      -    R    -    100,840.0
+4ZR5qG5,11-30-2022,Pumpernick   -    XL    -    100,150.0
+G8Eq8W5,11-30-2022,Plain      -    XL    -    100,940.0
+4zHVvmM,11-30-2022,Everything   -    XL    -    100,950.0
+QQ1vCT8,11-30-2022,Plain      -    XL    -    1,Asiago   -    XL    -    100,Asiago   -    XL    -    100,Asiago   -    XL    -    100,Asiago   -    XL    -    100,Asiago   -    XL    -    100,Asiago   -    XL    -    100,Asiago   -    XL    -    100,Asiago   -    XL    -    100,Asiago   -    XL    -    100,Asiago   -    XL    -    100,6509.4
+bjPu6ab,11-30-2022,Plain      -    S    -    22,74.8
+KXBcelo,11-30-2022,Plain      -    S    -    34,115.6
+oXiGz9R,11-30-2022,Plain      -    S    -    38,129.2
+4jRllFJ,11-30-2022,Plain      -    S    -    100,340.0
+3ydnRcI,11-30-2022,Plain      -    M    -    44,294.8
+fmRot5c,11-30-2022,Plain      -    S    -    100,340.0
+BPPQTkX,11-30-2022,Plain      -    S    -    100,340.0
+ERDH9nn,11-30-2022,Everything   -    S    -    0,Everything   -    S    -    10,15.0
+CYGMYtX,11-30-2022,Plain      -    S    -    32,Plain      -    S    -    32,Plain      -    S    -    32,Plain      -    S    -    4,Blueberry   -    L    -    4,Blueberry   -    L    -    4,Blueberry   -    L    -    4,Blueberry   -    L    -    4,Blueberry   -    L    -    4,Blueberry   -    L    -    4,Blueberry   -    L    -    4,Blueberry   -    L    -    4,Blueberry   -    L    -    4,Blueberry   -    L    -    4,Blueberry   -    L    -    50,Blueberry   -    L    -    50,788.0
+w7gDtss,11-30-2022,Asiago   -    M    -    10,Asiago   -    M    -    74,Asiago   -    XL    -    74,Asiago   -    XL    -    74,Asiago   -    XL    -    74,Asiago   -    XL    -    74,Asiago   -    XL    -    74,Asiago   -    XL    -    74,Asiago   -    XL    -    74,Asiago   -    XL    -    74,Asiago   -    XL    -    74,Asiago   -    XL    -    74,Asiago   -    XL    -    74,Asiago   -    XL    -    45,5877.5
+OdsrsvI,12-01-2022,Plain      -    XL    -    50,Onion    -    XL    -    50,Onion    -    XL    -    50,Onion    -    XL    -    35,875.0
+GAcTnox,12-01-2022,Plain      -    M    -    90,Plain      -    M    -    90,Plain      -    M    -    90,Plain      -    M    -    90,Plain      -    M    -    90,Plain      -    M    -    90,Plain      -    M    -    90,Plain      -    M    -    90,Plain      -    M    -    90,5427.0
+18mcYV8,12-01-2022,Cinnamon   -    S    -    50,Cinnamon   -    S    -    25,652.5
+rDcNhzG,12-01-2022,Plain      -    S    -    100,Wheat    -    S    -    100,Wheat    -    XL    -    100,Wheat    -    XL    -    7,1875.1
+yLdsowM,12-01-2022,Blueberry   -    S    -    50,Blueberry   -    S    -    50,Blueberry   -    S    -    50,PoppySeed   -    S    -    34,PoppySeed   -    S    -    34,PoppySeed   -    S    -    34,PoppySeed   -    S    -    34,PoppySeed   -    S    -    34,1824.0
+t6un4j8,12-01-2022,Chocolates   -    S    -    10,Salt Bagels   -    R    -    90,Salt Bagels   -    S    -    90,Salt Bagels   -    S    -    75,882.5
+UBFdcUJ,12-01-2022,Cinnamon   -    S    -    110,957.0
+6zjMndg,12-01-2022,Plain      -    S    -    10,Blueberry   -    L    -    34,Pumpernick   -    XL    -    50,Pumpernick   -    XL    -    13,237.3
+4et9PHj,12-01-2022,Cinnamon   -    XL    -    10,Blueberry   -    S    -    34,156.2
+VZd5PGB,12-01-2022,Onion    -    L    -    33,287.1
+JGv16OX,12-02-2022,Blueberry   -    R    -    23,Cinnamon   -    R    -    100,Plain      -    S    -    10,1174.8
+o5BTgAs,12-04-2022,Wheat    -    M    -    32,Blueberry   -    R    -    130,1427.2
+QsTTfXA,01-03-2023,Cinnamon   -    R    -    32,Chocolates   -    M    -    43,Chocolates   -    S    -    43,Cinnamon   -    M    -    43,1085.6
